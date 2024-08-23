@@ -2,7 +2,7 @@
 
 ## Sales Analysis Report
 
-### Data Model
+### DATA MODEL
 ![Data_Model](https://github.com/user-attachments/assets/e2b0c7d2-7f7e-4f5d-8a3d-d016af957ac5)
 ### Overview
 ![Overview](https://github.com/user-attachments/assets/f1b52763-bed5-43e8-8075-f3a056e06ebc)
