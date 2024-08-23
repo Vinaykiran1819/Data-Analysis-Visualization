@@ -5,6 +5,6 @@
 ### Overview
 ### Profit
 ### My Performance
-### Product Details
+### Product Details (Drill through)
 ### Scatter Chart
 ### Forecast
