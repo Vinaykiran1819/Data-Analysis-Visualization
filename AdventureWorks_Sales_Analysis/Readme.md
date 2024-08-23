@@ -2,8 +2,8 @@
 
 In this project, I analyzed sales data for Adventure Works using Microsoft Power BI. I imported and transformed the data, built a comprehensive data model, and created interactive visual reports that provide insights into sales performance across different product categories, regions, and customer segments. The project showcases my ability to utilize Power BI for data analysis, report building, and visual storytelling. The final report helps stakeholders easily explore and understand key metrics such as revenue, sales trends, and customer behaviour.
 
-Skills : Data Import and Transformation, Data Modeling, Data Analysis, Data Visualization, Report Optimization and Formatting
-Tools : Microsft Power BI Desktop, Power Query, DAX, Power BI Service
+**Skills** : Data Import and Transformation, Data Modeling, Data Analysis, Data Visualization, Report Optimization and Formatting
+**Tools** : Microsft Power BI Desktop, Power Query, DAX, Power BI Service
 
 ## Sales Analysis Report
 
