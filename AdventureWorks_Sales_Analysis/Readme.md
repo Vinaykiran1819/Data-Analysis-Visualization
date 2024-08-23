@@ -1,15 +1,17 @@
 # Adventure Works Sales Analysis using Power BI
 
+In this project, I analyzed sales data for Adventure Works using Microsoft Power BI. I imported and transformed the data, built a comprehensive data model, and created interactive visual reports that provide insights into sales performance across different product categories, regions, and customer segments. The project showcases my ability to utilize Power BI for data analysis, report building, and visual storytelling. The final report helps stakeholders easily explore and understand key metrics such as revenue, sales trends, and customer behaviour.
+
 ## Sales Analysis Report
 
 ### DATA MODEL
 ![Data_Model](https://github.com/user-attachments/assets/e2b0c7d2-7f7e-4f5d-8a3d-d016af957ac5)
 ### 1. OVERVIEW
 ![Overview](https://github.com/user-attachments/assets/f1b52763-bed5-43e8-8075-f3a056e06ebc)
-### 2. PROFIT
-![Profit](https://github.com/user-attachments/assets/44ff93eb-4827-4967-b547-e00d97ed0aa3)
-### 3. MY PERFORMANCE
+### 2. MY PERFORMANCE
+**Bar Chart**
 ![My_Performance_Bar_Chart](https://github.com/user-attachments/assets/b7e8b474-bdac-46da-9117-140805ddfae1)
+**Column Chart**
 ![My_Performance_Column_Chart](https://github.com/user-attachments/assets/196c426e-efab-41e8-bcdf-17f37be1e2aa)
 ### 4. PRODUCT DETAILS (Drill through)
 ![Product_Details_Bikes](https://github.com/user-attachments/assets/c9b9ffe6-951c-47f5-bbfd-0087ac1dc972)
