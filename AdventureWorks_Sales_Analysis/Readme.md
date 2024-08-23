@@ -4,7 +4,7 @@
 
 ### DATA MODEL
 ![Data_Model](https://github.com/user-attachments/assets/e2b0c7d2-7f7e-4f5d-8a3d-d016af957ac5)
-### <u>OVERVIEW</u>
+### OVERVIEW
 ![Overview](https://github.com/user-attachments/assets/f1b52763-bed5-43e8-8075-f3a056e06ebc)
 ### PROFIT
 ![Profit](https://github.com/user-attachments/assets/44ff93eb-4827-4967-b547-e00d97ed0aa3)
