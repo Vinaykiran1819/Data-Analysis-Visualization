@@ -1,2 +1,2 @@
 ## Data Visualization Projects
-### AdventureWorks Sales Analysis
+### 1. AdventureWorks Sales Analysis
