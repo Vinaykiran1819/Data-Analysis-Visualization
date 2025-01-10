@@ -5,7 +5,9 @@
 ## Objective
 To create a Power BI dashboard for AtliQ Grands, a five-star hotel chain, analyze their performance data and provide actionable insights. The goal was to help them regain market share and improve revenue in the luxury and business hotel segments.
 
-![Dashboard](https://github.com/user-attachments/assets/e2b0c7d2-7f7e-4f5d-8a3d-d016af957ac5)
+
+![Dashboard]((https://github.com/Vinaykiran1819/Data_Visualization/blob/main/AltiQGrands_Performance_Insights/Snaps/AtliQ_Dashboard_Snap.png))
+
 
 ## Data Preparation
 •	Data Loading: Imported raw data into Power BI from the provided dataset.
