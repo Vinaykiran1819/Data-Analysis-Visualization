@@ -11,9 +11,10 @@ To create a Power BI dashboard for AtliQ Grands, a five-star hotel chain, analyz
 
 
 ## Data Preparation
-•	Data Loading: Imported raw data into Power BI from the provided dataset.
-•	Data Transformation: Power Query was used to clean, reshape, and transform the data for analysis.
-•	Data Modeling: Built a star schema model to ensure efficient and structured data analysis.
+- **Data Loading**: Imported raw data into Power BI from the provided dataset.
+- **Data Transformation**: Utilized Power Query to clean, reshape, and transform the data for analysis.
+- **Data Modeling**: Designed a star schema model to ensure efficient and structured data analysis.
+
 
 ## Key Metrics
 Created 26 important measures using DAX, such as:
