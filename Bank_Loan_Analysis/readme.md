@@ -107,19 +107,6 @@ Banking executives often struggle to monitor and evaluate loan performance metri
 
 ---
 
-## 📸 Sample Dashboard Screenshots
-
-### Summary Dashboard
-[Insert screenshot here]
-
-### Overview Dashboard
-[Insert screenshot here]
-
-### Details Dashboard
-[Insert screenshot here]
-
----
-
 ## 💡 Learnings and Takeaways
 
 This project demonstrates how to effectively use data analytics and visualization tools to make informed business decisions. By combining **SQL** for data preparation and **Power BI** for visualization, it is possible to deliver impactful insights that drive business growth.
