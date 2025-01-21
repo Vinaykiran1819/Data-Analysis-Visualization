@@ -111,5 +111,3 @@ Banking executives often struggle to monitor and evaluate loan performance metri
 
 This project demonstrates how to effectively use data analytics and visualization tools to make informed business decisions. By combining **SQL** for data preparation and **Power BI** for visualization, it is possible to deliver impactful insights that drive business growth.
 
----
-
