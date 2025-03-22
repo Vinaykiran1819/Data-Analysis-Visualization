@@ -80,19 +80,19 @@ Banking executives often struggle to monitor and evaluate loan performance metri
   - High-level KPIs such as total loans, funded amount, and average interest rate.
   - Month-over-month (MoM) and year-over-year (YoY) trends.
  
-   ![Summary](Bank_Loan_Analysis/Images/Bank_Loan_Summary.png)
+![Summary](Bank_Loan_Analysis/Images/Bank_Loan_Summary.png)
   
 - **Overview Dashboard**:
   - Loan trends by issue date, region, term, and borrower profiles.
   - Insights into loan purpose distribution and employment length analysis.
  
-  ![Overview](Bank_Loan_Analysis/Images/Bank_Loan_Overview.png)
+![Overview](Bank_Loan_Analysis/Images/Bank_Loan_Overview.png)
 
 - **Details Dashboard**:
   - Detailed loan performance metrics categorized by loan status.
   - Drill-down capabilities for enhanced data exploration.
- 
-  ![Details](Bank_Loan_Analysis/Images/Bank_Loan_Details.png)
+
+![Details](Bank_Loan_Analysis/Images/Bank_Loan_Details.png)
 
 ---
 
